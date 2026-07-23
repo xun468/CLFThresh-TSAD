@@ -1,0 +1,6 @@
+numpy==2.5.1
+pandas==3.0.5
+scikit_learn==1.9.0
+scipy==1.18.0
+torch==2.3.1+cu121
+tqdm==4.66.2
